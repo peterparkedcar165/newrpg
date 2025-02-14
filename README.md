@@ -8,12 +8,12 @@
 ### Pehkui?
 ### Apothic Attributes
 
-## Technical Information:
+# Technical Information:
 ### Neoforge 1.21.1
 ### No Origins
 ### Everything in MCreator
 
-## Gameplay Information:
+# Gameplay Information:
 ### Every classes will have 3 upgradable abilities.
 ### Including passives
 ### Mobs are enhanced but receive NO health boost.
@@ -22,10 +22,16 @@
 ### ***Reason behind no more health boost is to enable PvP seamlessly. There are no longer Friendly/Hostile-only spells, unless it's a debuff or a buff.
 ### Every class will have an element attributed to them. With each element having a certain attribute connected to it.
 
-## Classes:
+# Classes:
+## Human:
 ### [WATER/ICE] Ice Wizard (Spell Power, Mana) - Wand:
-### [LIGHT] Solar Knight (Attack Damage, Armor) - Sword/Mace and Shield:
-### [WIND] Explorer (Arrow Damage/Velocity, Movement/Draw Speed) - Bow/Crossbow/Shuriken?:
-### [NATURE] Druid (Spell Power, Cooldown Reduction):
+### [LIGHT] Solar Crusader (Attack Damage, Armor) - One-Handed-Melee and Shield:
+### [WIND] Wind Explorer (Arrow Damage/Velocity, Movement/Draw Speed) - Bow/Crossbow/Shuriken?:
+### [NATURE] Forest Druid (Spell Power, Cooldown Reduction):
 ### [DARK] Necromancer (Attack Damage, Max Health) - Scythe:
+### [FIRE] Blaze Warrior (Attack Damage, Attack Speed) - Two-Handed-Melee:
+
+## Creature:
+### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Draw Speed) - Bow:
+###
 
