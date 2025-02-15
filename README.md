@@ -24,7 +24,7 @@
 
 # Classes:
 ## Human:
-### [WATER/ICE] Ice Wizard (Spell Power, Mana) - Wand:
+### [ICE] Ice Wizard (Spell Power, Mana) - Wand:
 ### [LIGHT] Solar Crusader (Attack Damage, Armor) - One-Handed-Melee and Shield:
 ### [WIND] Wind Explorer (Arrow Damage/Velocity, Movement/Draw Speed) - Bow/Crossbow/Shuriken?:
 ### [NATURE] Forest Druid (Spell Power, Cooldown Reduction):
@@ -32,6 +32,7 @@
 ### [FIRE] Blaze Warrior (Attack Damage, Attack Speed) - Two-Handed-Melee:
 
 ## Creature:
-### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Draw Speed) - Bow:
-###
+### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Spell Power) - Bow:
+### [Water] Naiad (Spell Power, Mana, Health) - Wand:
+### [Fire] Imp (Spell Power, Mana) - Wand:
 
