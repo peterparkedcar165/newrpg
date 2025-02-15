@@ -34,6 +34,8 @@
 
 ## Creature:
 ### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Spell Power) - Bow:
+#### Passive:
+
 
 ### [Water] Naiad (Spell Power, Mana, Health) - Wand:
 #### Passive:
