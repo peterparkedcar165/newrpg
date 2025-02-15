@@ -33,6 +33,13 @@
 
 ## Creature:
 ### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Spell Power) - Bow:
+
 ### [Water] Naiad (Spell Power, Mana, Health) - Wand:
+
 ### [Fire] Imp (Spell Power, Mana) - Wand:
+#### -Main Attack: Fire Bolt - Shoot a ball of fire forward that burns and damages the first target hit.
+#### -Ability 1: Hellfire Rush - Increase Movement Speed and Flight Speed, during a short moment, leave a trail of fire (that floats) that damages and hostiles that pass through.
+#### -Ability 2: Eruption - Summon eruptions in a trail in front of you (up to 3) damaging enemies and knocking them back.
+###### Upgrade: Trail moves further, increasing potential damage by a lot.
+#### -Ability 3: 
 
