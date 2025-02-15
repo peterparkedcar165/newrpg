@@ -35,6 +35,11 @@
 ## Creature:
 ### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Spell Power) - Bow:
 #### Passive:
+##### -Slowed flight, with a gauge.
+##### -Arrow Velocity increased, arrow hits have love particles.
+##### -Arrow hits increase Love gauge by 1.
+
+#### Ability 1: Love Projection - Unleash a love projectile that travels straight, damages and charms hostiles. Charmed hostiles have reduced Armor, and are unable to Attack, while walking towards u.
 
 
 ### [Water] Naiad (Spell Power, Mana, Health) - Wand:
