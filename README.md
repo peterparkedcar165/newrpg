@@ -21,6 +21,7 @@
 ### Health boosts will only be applied to Large or Elite mobs.
 ### ***Reason behind no more health boost is to enable PvP seamlessly. There are no longer Friendly/Hostile-only spells, unless it's a debuff or a buff.
 ### Every class will have an element attributed to them. With each element having a certain attribute connected to it.
+### Contact with water inflicts Wet.
 
 # Classes:
 ## Human:
@@ -35,12 +36,29 @@
 ### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Spell Power) - Bow:
 
 ### [Water] Naiad (Spell Power, Mana, Health) - Wand:
+#### Passive:
+##### -Faster swimming, increased Mana Regeneration while touching water or under rain.
+##### -Can breathe underwater, and mining penalty is reduced.
+##### -Under rain, increase Movement Speed
+##### -Freeze twice as fast.
+##### -Physical touch with entities wets them.
+##### -SOMEHOW Reduce fall damage by 50%.
+
+#### -Main Attack: Water Splash - Shoot a splash of water at the enemy, damaging the first target hit.
+#### Ability 1: Wave Crash - Summon a wave that travels forward, damaging the enemy and pushing them further.
+###### Upgrade: Moves further, damage is increased with Max Mana.
+#### Ability 2: Geyser - Summon a geyser in your position, launching yourself upwards while also launching enemies and damaging them multiple times.
+###### Upgrade: Geyser remains for a bit, keeping you and targets upwards while continuing the damage.
+#### Ability 3: Raincall - Summon a rain around you, slowly healing friendly units and regenerating mana. Water-power is increased.
+###### Upgrade: Numbers are increased.
+
 
 ### [Fire] Imp (Spell Power, Mana) - Wand:
 #### Passive: 
 ##### -Slowed flight, with a gauge, decreases slowly in the Nether.
 ##### -Increased Mana Regeneration in the Nether.
 ##### Magic Attacks are fire but may still damage Fire-based mobs.
+##### Decreased Swimming Speed, movement speed and flight speed while wet.
 
 #### -Main Attack: Fire Bolt - Shoot a ball of fire forward that burns and damages the first target hit.
 #### -Ability 1: Hellborne Trickster - Dash backwards, leaving a fiery decoy at the original location. The decoy explodes after a few seconds or after contact with hostiles, dealing damage and burning.
