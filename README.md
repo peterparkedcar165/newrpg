@@ -36,10 +36,15 @@
 ### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Spell Power) - Bow:
 #### Passive:
 ##### -Slowed flight, with a gauge.
-##### -Arrow Velocity increased, arrow hits have love particles.
+##### -Draw Speed increased, arrow hits have love particles, and unleash 2-3 Hearts towards targets, dealing minimal damage based on Spell Power.
 ##### -Arrow hits increase Love gauge by 1.
 
 #### Ability 1: Love Projection - Unleash a love projectile that travels straight, damages and charms hostiles. Charmed hostiles have reduced Armor, and are unable to Attack, while walking towards u.
+###### Upgrade: Charm lasts longer, and is increased to Charm II. When Charm II+ finish, inflicts Heartbreak, retaining the Armor reduction and apply an Attack Damage reduction as well. This applies to ALL Charms.
+#### Ability 2: Passionate Kiss - Unleash numerous little pink hearts that home towards allies and players once it finds one. Each hearts heal for a small amount.
+###### Upgrade: Passive - Each Arrow hit against a hostile will fire one pink heart.
+#### Ability 3: Lovestruck - Unleash a large heart that slowly moves, damages enemies over time while taking all aggro (this aggro is stronger than everything). Charms.
+###### Upgrade: Lasts longer, farm animals are unaffected, and both farm animals and villagers become willing.
 
 
 ### [Water] Naiad (Spell Power, Mana, Health) - Wand:
