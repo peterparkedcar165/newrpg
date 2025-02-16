@@ -31,6 +31,11 @@
 ### [NATURE] Forest Druid (Spell Power, Cooldown Reduction):
 ### [DARK] Necromancer (Attack Damage, Max Health) - Scythe:
 ### [FIRE] Blaze Warrior (Attack Damage, Attack Speed) - Two-Handed-Melee:
+#### Passive:
+##### -Increased Attack Damage and Attack Speed, reduced Spell Power and Arrow Damage.
+##### -Each kills grant Blaze effect for a long duration, increasing Attack Damage and Attack Speed, up until level 5, where melee attacks begin being infused with fire, dealing an extra instance of damage and burns targets.
+
+#### Ability 1: Fiery Dash
 
 ## Creature:
 ### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Spell Power) - Bow:
