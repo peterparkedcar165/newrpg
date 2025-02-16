@@ -1,4 +1,4 @@
-# Tommy's Once Again New RPG Modpack
+moi# Tommy's Once Again New RPG Modpack
 
 # Add a bit of life and RPG aspect to vanilla
 
@@ -34,8 +34,14 @@
 #### Passive:
 ##### -Increased Attack Damage and Attack Speed, reduced Spell Power and Arrow Damage.
 ##### -Each kills grant Blaze effect for a long duration, increasing Attack Damage and Attack Speed, up until level 5, where melee attacks begin being infused with fire, dealing an extra instance of damage and burns targets.
+##### -Kills also create an explosion of fire that damages nearby hostiles
+##### Increased Parry Chance
 
-#### Ability 1: Fiery Dash
+#### Ability 1: Burning Rush - Dash forward leaving a trail of fire behind. Kills reduce cooldown by 33% of max.
+###### Upgrade: Trail lasts longer, dash further.
+#### Ability 2: Hellfire Rain - Rain a bunch of embers from above dealing damage per hit.
+###### Embers burst dealing AOE damage.
+#### Ability 3: 
 
 ## Creature:
 ### [Love] Cupid (Arrow Velocity, Cooldown Reduction, Spell Power) - Bow:
