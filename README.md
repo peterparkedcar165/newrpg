@@ -39,7 +39,7 @@
 ##### -Draw Speed increased, arrow hits have love particles, and unleash 2-3 Hearts towards targets, dealing minimal damage based on Spell Power.
 ##### -Arrow hits increase Love gauge by 1.
 
-#### Ability 1: Love Projection - Unleash a love projectile that travels straight, damages and charms hostiles. Charmed hostiles have reduced Armor, and are unable to Attack, while walking towards u.
+#### Ability 1: Love Projection - Unleash a love projectile that travels straight, damages and charms hostiles. Charmed hostiles have reduced Armor, and are unable to Attack, while walking towards you. Range is further increased by Love gauge.
 ###### Upgrade: Charm lasts longer, and is increased to Charm II. When Charm II+ finish, inflicts Heartbreak, retaining the Armor reduction and apply an Attack Damage reduction as well. This applies to ALL Charms.
 #### Ability 2: Passionate Kiss - Unleash numerous little pink hearts that home towards allies and players once it finds one. Each hearts heal for a small amount.
 ###### Upgrade: Passive - Each Arrow hit against a hostile will fire one pink heart.
