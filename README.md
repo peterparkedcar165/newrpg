@@ -25,7 +25,13 @@ moi# Tommy's Once Again New RPG Modpack
 
 # Classes:
 ## Human:
-### [ICE] Ice Wizard (Spell Power, Mana) - Wand:
+### [ICE] Snow Wizard (Spell Power, Mana) - Wand:
+#### Ability 1: Icy Wind - Unleash a gust of wind that damages enemies once and pushes them back a bit, also inflicts with Frost.
+###### Upgrade: Creates a field of powder snow that inflicts gradual Frost to hostiles. Increase distance.
+#### Ability 2: Snow Companion - Summon a Snowman (custom entity that can actually do damage) that fights for you.
+###### Upgrade: Summons two instead, instead of snowballs, they shoot little gusts of wind, slightly pushing back entities.
+#### Ability 3: Blizzard - The thing.
+
 ### [LIGHT] Solar Crusader (Attack Damage, Armor) - One-Handed-Melee and Shield:
 ### [WIND] Wind Explorer (Arrow Damage/Velocity, Movement/Draw Speed) - Bow/Crossbow/Shuriken?:
 ### [NATURE] Forest Druid (Spell Power, Cooldown Reduction):
